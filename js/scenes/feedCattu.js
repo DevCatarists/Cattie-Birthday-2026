@@ -20,7 +20,7 @@ export function renderFeedCattu(container, onDone) {
         <div class="cat-wrap game-wrap" id="gameWrap">
           <img class="game-cat" id="gameCat" src="assets/cat_milk.gif" alt="Cattu drinking milk" data-asset="cat-drink" style="width:80px;height:80px;" />
         </div>
-        <p class="game-instruction">Press SPACE as fast as you can to feed Cattu! 🥛🐱</p>
+        <p class="game-instruction">Press the BUTTON or SPACE as fast as you can to feed Cattu! 🥛🐱</p>
         <div class="progress" id="progress"><div class="progress-fill" id="progressFill"></div></div>
         <button class="tap-btn" id="tapBtn">Tap to feed 🥛</button>
         <p class="game-hint">Keep pressing quickly or Cattu resets! 😿</p>
